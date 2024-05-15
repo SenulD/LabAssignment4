@@ -8,3 +8,7 @@ def subtract(x, y):
 
 def multiply(x, y):
     return x * y
+
+
+result_add = add(5, 3)
+print("Addition:", result_add)
